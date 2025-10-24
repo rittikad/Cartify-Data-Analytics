@@ -1,0 +1,21 @@
+discount_type_id;type_of_discount
+D001;Exclusive App-Only Discount
+D002;Buy One Get One Free
+D003;Holiday Sale
+D004;Flash Sale
+D005;Seasonal Discount
+D006;Loyalty Program Discount
+D007;First Purchase Discount
+D008;Student Discount
+D009;Senior Citizen Discount
+D010;Referral Discount
+D011;Bulk Purchase Discount
+D012;Limited-Time Offer
+D013;Clearance Sale
+D014;VIP Member Discount
+D015;Early Bird Discount
+D016;Anniversary Sale
+D017;Cashback Offer
+D018;Mystery Discount
+D019;Friends and Family Discount
+D020;Weekend Special Discount
