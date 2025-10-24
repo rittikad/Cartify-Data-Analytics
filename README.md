@@ -54,28 +54,7 @@ The goal was to **optimise marketing ROI, enhance customer retention, and increa
 - **Enhanced Retention:** Personalized campaigns increase loyalty.  
 - **Maximized ROI:** Optimized ad spend and campaign effectiveness.  
 - **Revenue Growth:** Data-driven campaigns increase sales and customer lifetime value.  
-- **Future Expansion:** AI-powered personalization and omnichannel strategies support long-term success.  
-
-## Repository Structure
-Cartify-Data-Analytics/
-│
-├── README.md
-├── ER_Diagram.png
-├── Database/
-│ ├── schema.sql
-│ ├── insert_data.sql
-│ └── sample_queries.sql
-├── Data/
-│ ├── customers.csv
-│ ├── orders.csv
-│ ├── products.csv
-│ └── discounts.csv
-├── Reports/
-│ ├── Final_Report.pdf
-│ └── Visualizations.png
-└── Presentation/
-└── Cartify_Presentation.mp4
-
+- **Future Expansion:** AI-powered personalization and omnichannel strategies support long-term success. 
 
 ## Tools & Technologies
 - **Database:** SQLite  
