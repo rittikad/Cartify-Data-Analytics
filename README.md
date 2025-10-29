@@ -65,7 +65,6 @@ The goal was to **optimise marketing ROI, enhance customer retention, and increa
 
 ## How to Use
 1. Clone the repository  
-2. Run `schema.sql` to create the database  
-3. Run `insert_data.sql` to populate tables  
-4. Use `sample_queries.sql` to explore insights  
-5. Review `Final_Report.pdf` and `Visualizations.png` for detailed analysis  
+2. Run `cartify_analysis.py` to create the database, insert data and view the business analysis and the corresponding outputs  
+3. Review `Reports` folder and `ER_Diagram.png` for detailed analysis
+4. Review the `Presentation` folder to go through the pitch deck for business heads.
