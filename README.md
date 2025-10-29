@@ -18,7 +18,10 @@ The goal was to **optimise marketing ROI, enhance customer retention, and increa
 - Developed a **relational database in SQLite** covering customers, orders, products, discounts, campaigns, and website activity.  
 - Generated realistic **synthetic datasets** using Python, Faker, and Generative AI.  
 - Ensured **data integrity** with primary/foreign keys, unique constraints, composite keys, and cascading deletions.  
-- **Normalised data** to reduce redundancy and improve scalability.  
+- **Normalised data** to reduce redundancy and improve scalability.
+
+### Data Generation
+Synthetic datasets for Cartify were generated using Python's Faker library, simulating realistic customer, product, and transaction data. The full code and methodology are detailed in the project report (Appendix), and the generated CSVs are loaded into the database for analysis.
 
 ## Execution & Technical Skills
 - Engineered **ER diagrams** and implemented a structured database to capture customer interactions, campaign engagement, and sales.  
@@ -61,7 +64,7 @@ The goal was to **optimise marketing ROI, enhance customer retention, and increa
 - **SQL:** DDL, queries, analytics  
 - **Python:** Data generation with Faker & AI  
 - **Visualization:** Excel/Tableau  
-- **Analytics:** KPI calculation, retention, ROI, and campaign insights  
+- **Analytics:** KPI calculation, retention, ROI, and campaign insights
 
 ## How to Use
 1. Clone the repository  
