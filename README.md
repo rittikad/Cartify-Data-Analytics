@@ -20,7 +20,7 @@ The goal was to **optimise marketing ROI, enhance customer retention, and increa
 - Ensured **data integrity** with primary/foreign keys, unique constraints, composite keys, and cascading deletions.  
 - **Normalised data** to reduce redundancy and improve scalability.
 
-### Data Generation
+## Data Generation
 Synthetic datasets for Cartify were generated using Python's Faker library, simulating realistic customer, product, and transaction data. The full code and methodology are detailed in the project report (Appendix), and the generated CSVs are loaded into the database for analysis.
 
 ## Execution & Technical Skills
